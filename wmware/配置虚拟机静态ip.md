@@ -1,0 +1,11 @@
+参考地址：https://www.jianshu.com/p/2886d9b41d54
+
+IPADDR="192.168.198.X"
+
+GATEWAY="192.168.198.2"
+
+NETMASK="255.255.255.0"
+
+NM_CONTROLLED="no"
+
+DNS1="192.168.198.2"
